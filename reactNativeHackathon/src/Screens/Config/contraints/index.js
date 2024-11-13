@@ -1,0 +1,1 @@
+export const BASE_URL = "https://hackathon-backend-sepia.vercel.app"
